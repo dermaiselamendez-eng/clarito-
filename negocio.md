@@ -2,7 +2,7 @@
 
 - **Nombre:** Clínica Dermatológica Isela Méndez
 - **Dueño(a):** Isela Méndez
-- **Qué vende:** POR DEFINIR
+- **Qué vende:** Tratamientos dermatológicos, láser e injerto capilar.
 - **Desde cuándo y cómo empezó:** POR DEFINIR
 - **Dónde está y dónde están sus clientes:** POR DEFINIR
 - **Cliente ideal:** POR DEFINIR

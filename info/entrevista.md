@@ -1,4 +1,4 @@
-Siguiente pregunta: 2
+Siguiente pregunta: 3
 
 # Entrevista
 
@@ -6,3 +6,6 @@ Siguiente pregunta: 2
 
 **1. ¿Cómo te llamas y cómo se llama tu negocio?**
 Me llamo Isela Méndez y mi negocio se llama Clínica Dermatológica Isela Méndez.
+
+**2. En una frase, ¿qué vende tu negocio?**
+Ofrecemos tratamientos dermatológicos, láser, injerto capilar.
