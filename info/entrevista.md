@@ -1,4 +1,4 @@
-Siguiente pregunta: 8
+Siguiente pregunta: 9
 
 # Entrevista
 
@@ -27,3 +27,6 @@ No, los inyectables tienen un precio aparte. Por ejemplo, más o menos unas 60 u
 
 **7. ¿Por qué te eligen a ti y no a otro?**
 Me eligen a mí porque tengo 15 años en el mercado y algo que me ayuda mucho es que me recomienda Marta de Baile, la cual es una mujer de 59 años, que es líder de opinión en México, de un segmento socioeconómico alto, y porque son muchos pacientes subsecuentes que ya tienen conmigo, incluso desde que soy residente, antes de abrir mi clínica ya eran mis pacientes. Entonces es pacientes subsecuentes que me recomiendan entre ellas y también por las redes sociales, principalmente en Instagram y en Google, ya sea orgánico o por pago.
+
+**8. ¿Quién es tu competencia principal?**
+piel clínic, dermalomas, dermarte, skingroup
