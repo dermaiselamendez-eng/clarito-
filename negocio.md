@@ -14,7 +14,11 @@
 
 ## Objetivos
 
-- **90 días:** POR DEFINIR
+- **90 días:**
+  - Llenar el área Body Perfect: los láser trabajando sin depender directamente de Isela.
+  - Abrir la primera sucursal en Lomas de Chapultepec, alrededor del 15 de diciembre de 2026 (a 1.5 km, pero mucha gente no cruza el Periférico).
+  - Que la clínica dependa cada vez menos de Isela: hoy ella genera el 30% de la facturación. Quiere que su parte sea menor sin bajar lo que ella factura, y que el total suba.
+  - Cómo: reclutó más médicos y los está capacitando en inyectables.
 - **1 año:** POR DEFINIR
 
 ## Lo que más deja

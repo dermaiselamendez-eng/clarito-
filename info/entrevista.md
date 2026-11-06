@@ -1,4 +1,4 @@
-Siguiente pregunta: 11
+Siguiente pregunta: 12
 
 # Entrevista
 
@@ -38,3 +38,6 @@ injerto capilar 60,000 a 80,000. principalmente hombres, cicatrices de acné, pa
 Conmigo trabajan 6 médicos estéticos, 8 dermatólogos, 15 enfermeras, y lo demás es personal administrativo como recepcionistas, del aseo, 4 en contact center, 4 en mercadotecnia y personal externo que nos apoya. Somos en total 70, pero pues el personal médico venimos siendo unos 30.
 
 ## Bloque 2 · Tus objetivos
+
+**11. ¿Qué quieres lograr en los próximos 90 días?**
+Lo que quiero lograr es tener todo el área de body perfect ocupada, o sea, los láser trabajando que no dependen directamente de mí. Y vamos a abrir una sucursal aproximadamente el 15 de diciembre en Lomas de Chapultepec. Queda cerca, queda a 1.5 kilómetros, pero en la Ciudad de México con el tráfico mucha gente no cruza el periférico. Entonces ahí pusimos la primera sucursal que vamos a abrir. Y el objetivo pues, es tener las maquinitas trabajando y que cada vez dependan menos de mí la clínica. Actualmente de la facturación yo correspondo al 30% de la facturación y pues quiero, sin bajar mi facturación, ser yo cada vez una menor parte y pues el objetivo sería subirla, y para esto he reclutado más médicos y me estoy dedicando a capacitar en las habilidades en los inyectables.

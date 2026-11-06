@@ -5,3 +5,6 @@
 
 ## Aprendizajes
 (Se llenan con `/guarda-lo-aprendido`.)
+
+## Fechas clave
+- 2026-12-15 (aprox.): apertura de la sucursal en Lomas de Chapultepec.
