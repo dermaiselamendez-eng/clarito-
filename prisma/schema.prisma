@@ -1,0 +1,120 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// Nota: SQLite no soporta enums nativos en Prisma, así que los campos de
+// estado se guardan como String con los valores documentados en comentario.
+
+model Usuario {
+  id        String   @id @default(cuid())
+  nombre    String
+  email     String   @unique
+  password  String
+  rol       String   @default("RECEPCION") // ADMIN | DOCTOR | RECEPCION
+  activo    Boolean  @default(true)
+  creadoEn  DateTime @default(now())
+}
+
+model Paciente {
+  id              String        @id @default(cuid())
+  nombre          String
+  telefono        String
+  email           String?
+  fechaNacimiento DateTime?
+  genero          String?
+  notas           String?
+  origen          String        @default("Manual")
+  creadoEn        DateTime      @default(now())
+  citas           Cita[]
+  cobros          Cobro[]
+  expedientes     NotaClinica[]
+}
+
+model Tratamiento {
+  id          String   @id @default(cuid())
+  nombre      String
+  categoria   String
+  descripcion String?
+  precio      Float?
+  duracionMin Int      @default(60)
+  activo      Boolean  @default(true)
+  citas       Cita[]
+  cobros      Cobro[]
+}
+
+model Cita {
+  id            String         @id @default(cuid())
+  paciente      Paciente       @relation(fields: [pacienteId], references: [id])
+  pacienteId    String
+  tratamiento   Tratamiento?   @relation(fields: [tratamientoId], references: [id])
+  tratamientoId String?
+  fecha         DateTime
+  estado        String         @default("PENDIENTE") // PENDIENTE | CONFIRMADA | COMPLETADA | CANCELADA
+  notas         String?
+  origenLanding Boolean        @default(false)
+  creadoEn      DateTime       @default(now())
+  cobro         Cobro?
+  recordatorios Recordatorio[]
+}
+
+model Cobro {
+  id            String       @id @default(cuid())
+  paciente      Paciente     @relation(fields: [pacienteId], references: [id])
+  pacienteId    String
+  tratamiento   Tratamiento? @relation(fields: [tratamientoId], references: [id])
+  tratamientoId String?
+  cita          Cita?        @relation(fields: [citaId], references: [id])
+  citaId        String?      @unique
+  monto         Float
+  metodo        String       @default("EFECTIVO") // EFECTIVO | TARJETA | TRANSFERENCIA
+  fecha         DateTime     @default(now())
+  notas         String?
+}
+
+model NotaClinica {
+  id         String   @id @default(cuid())
+  paciente   Paciente @relation(fields: [pacienteId], references: [id])
+  pacienteId String
+  titulo     String
+  contenido  String
+  creadoEn   DateTime @default(now())
+}
+
+model Recordatorio {
+  id         String   @id @default(cuid())
+  cita       Cita?    @relation(fields: [citaId], references: [id])
+  citaId     String?
+  titulo     String
+  mensaje    String
+  fechaEnvio DateTime
+  estado     String   @default("PENDIENTE") // PENDIENTE | ENVIADO | CANCELADO
+  creadoEn   DateTime @default(now())
+}
+
+model InsumoInventario {
+  id            String   @id @default(cuid())
+  nombre        String
+  categoria     String
+  stockActual   Int      @default(0)
+  stockMinimo   Int      @default(5)
+  unidad        String   @default("pza")
+  actualizadoEn DateTime @updatedAt
+}
+
+model VisitaLanding {
+  id         String   @id @default(cuid())
+  pagina     String   @default("/")
+  creadoEn   DateTime @default(now())
+  convertido Boolean  @default(false)
+}
+
+model ContenidoLanding {
+  clave         String   @id
+  valor         String
+  actualizadoEn DateTime @updatedAt
+}
