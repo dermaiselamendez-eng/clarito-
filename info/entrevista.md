@@ -1,4 +1,4 @@
-Siguiente pregunta: 27
+Siguiente pregunta: 28
 
 # Entrevista
 
@@ -96,3 +96,6 @@ Cercano y profesional.
 
 **26. ¿Qué cosas nunca debería decir o hacer tu marca?**
 Prometer resultados milagrosos ni hablar mal de otro médico. Si el paciente no está satisfecho, revisar su foto de antes y después y, si tiene razón, ofrecer otro tratamiento sin costo, que vea su inversión, si siguió sus indicaciones.
+
+**27. ¿Qué valores no negocias?**
+Ética, seguridad del paciente, honradez, dar seguimiento a los pacientes; les pido a mis médicos.
