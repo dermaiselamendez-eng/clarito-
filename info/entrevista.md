@@ -1,4 +1,4 @@
-Siguiente pregunta: 10
+Siguiente pregunta: 11
 
 # Entrevista
 
@@ -33,3 +33,8 @@ piel clínic, dermalomas, dermarte, skingroup
 
 **9. ¿Cuáles son tus productos o servicios principales y sus precios aproximados?**
 injerto capilar 60,000 a 80,000. principalmente hombres, cicatrices de acné, pacientes de 20 a 30 años, paquete. que incluye láser co2 fraccionado, erbios y nanopore 24,150 además de un área que se llama body perfect donde hay más de 15 tratamientos corporales, para la grasa, celulitis, estrías, telangiectasias, aumento del músculo, depilación etc la membresía oro 12 tratamientos cuesta 45,000.
+
+**10. ¿Quién trabaja contigo?**
+Conmigo trabajan 6 médicos estéticos, 8 dermatólogos, 15 enfermeras, y lo demás es personal administrativo como recepcionistas, del aseo, 4 en contact center, 4 en mercadotecnia y personal externo que nos apoya. Somos en total 70, pero pues el personal médico venimos siendo unos 30.
+
+## Bloque 2 · Tus objetivos
