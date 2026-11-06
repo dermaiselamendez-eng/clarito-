@@ -7,7 +7,7 @@
 
 # Voz de la marca
 
-- **Tres palabras:** POR DEFINIR
+- **Tres palabras:** experiencia, confianza, resultados.
 - **Tono con clientes:** POR DEFINIR
 - **Ejemplo de mensaje real:** POR DEFINIR
 - **Lo que la marca nunca dice:** POR DEFINIR

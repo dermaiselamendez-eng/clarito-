@@ -1,4 +1,4 @@
-Siguiente pregunta: 23
+Siguiente pregunta: 24
 
 # Entrevista
 
@@ -84,3 +84,6 @@ De tú y directo con humor.
 
 **22. ¿Qué nombre le pondrías a tu asistente?**
 Luis
+
+**23. Tres palabras que describan tu marca.**
+Experiencia, confianza, resultados.
