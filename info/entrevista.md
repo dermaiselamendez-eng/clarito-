@@ -1,4 +1,4 @@
-Siguiente pregunta: 20
+Siguiente pregunta: 21
 
 # Entrevista
 
@@ -72,3 +72,9 @@ No sé bien, pero creo que WhatsApp Business.
 
 **19b. Dato extra**
 Me dijeron que recibieron 9,000 mensajes en octubre.
+
+**20. ¿Qué has intentado que no funcionó?**
+(Dictado; entre corchetes lo que parece error del dictado.)
+Tener todo junto, la fascia [farmacia] online, la farmacia de la clínica y una farmacia que teníamos, boutique de venta directa al público, nos la cerró la compras [¿Cofepris?] por tener cabinas de faciales. Quitaremos la palabra farmacia y dejaremos solo boutique para reabrirla. Son 3 inventarios que deben estar unificados y a la vista del médico para que no se nos caduque producto.
+
+## Bloque 3 · Tu asistente y tu marca
