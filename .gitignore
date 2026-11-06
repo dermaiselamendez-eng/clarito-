@@ -7,3 +7,6 @@ video/**/*.mp4
 video/**/*.mov
 .env
 .DS_Store
+
+# Ajustes locales de cada compu (sonido, etc.)
+.claude/settings.local.json

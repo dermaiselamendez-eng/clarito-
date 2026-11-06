@@ -1,0 +1,5 @@
+# Los instaladores conservan su formato exacto en cualquier sistema
+*.sh       text eol=lf
+*.command  text eol=lf
+*.bat      -text
+*.ps1      -text

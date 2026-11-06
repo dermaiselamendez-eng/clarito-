@@ -12,6 +12,9 @@ graph TD
   P --> MA[marca/]
   L[laboratorio/] --> E[entregables/]
   L --> V[video/]
+  I[instalador/] -. copia la carpeta a Documentos .-> C
 ```
+
+`instalador/` (Mac y Windows) instala las herramientas y copia esta carpeta a `Documentos/Claude Code Clarity` sin sobrescribir nada.
 
 Se actualiza al cerrar la entrevista y cuando se agregan carpetas nuevas.
