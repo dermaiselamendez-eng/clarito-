@@ -1,4 +1,4 @@
-Siguiente pregunta: 17
+Siguiente pregunta: 18
 
 # Entrevista
 
@@ -60,3 +60,6 @@ Google Ads 140 pacientes nuevos al mes para consulta, Google orgánico 34 al mes
 
 **16. ¿En qué redes estás y cuál te funciona mejor?**
 Está en todas. YouTube casi no la alimentó, pero ahora me doy cuenta de su importancia y por eso voy a ver menos pacientes para hacer más contenido informativo sobre tratamientos faciales, corporal, pelo y skincare.
+
+**17. ¿Tienes página web? ¿Qué quisieras que hiciera por ti?**
+www.iselamendez.mx. Agendar citas.
