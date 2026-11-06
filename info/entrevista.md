@@ -1,4 +1,4 @@
-Siguiente pregunta: 21
+Siguiente pregunta: 22
 
 # Entrevista
 
@@ -78,3 +78,6 @@ Me dijeron que recibieron 9,000 mensajes en octubre.
 Tener todo junto, la fascia [farmacia] online, la farmacia de la clínica y una farmacia que teníamos, boutique de venta directa al público, nos la cerró la compras [¿Cofepris?] por tener cabinas de faciales. Quitaremos la palabra farmacia y dejaremos solo boutique para reabrirla. Son 3 inventarios que deben estar unificados y a la vista del médico para que no se nos caduque producto.
 
 ## Bloque 3 · Tu asistente y tu marca
+
+**21. ¿Cómo quieres que te hable tu asistente?**
+De tú y directo con humor.
