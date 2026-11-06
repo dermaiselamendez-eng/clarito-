@@ -111,6 +111,6 @@ Quiero que me ayudes a ser más eficiente con mi tiempo, aumentar el número de 
 
 ## Aclaraciones de Isela (después de la entrevista)
 - Quien cerró la tienda de venta directa fue la COEPRIS (no Cofepris).
-- El libro: Mastermind con Jorge Serratos; publicar el libro en «was» (por confirmar qué plataforma).
+- El libro: Mastermind con Jorge Serratos; publicar el libro con WAS, editorial mexicana.
 - Protector solar: «mis pacientes sí, pero cuando pregunto a la gente normal», no.
 - Marcas: Filorga, SkinCeuticals, ZO Obagi, Sensilis.

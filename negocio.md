@@ -31,7 +31,7 @@
 
 - **Boutique Isela Méndez (farmacia online, nombre confirmado):** envíos a toda la República, muy buen servicio, factura aproximadamente $1 millón al mes (a veces más). Es escalable y la quiere crecer.
 - **Marca personal:** quiere quitar tiempo de consulta para dedicarlo a su marca personal.
-- **Libro de skincare:** sencillo y práctico, para informar mejor a las pacientes sobre el cuidado de la piel. Lo está trabajando en el Mastermind con Jorge Serratos y quiere publicarlo en «was» (así lo dictó; por confirmar qué plataforma). Idea: que se pueda comprar fácilmente y mover en la Boutique online.
+- **Libro de skincare:** sencillo y práctico, para informar mejor a las pacientes sobre el cuidado de la piel. Lo está trabajando en el Mastermind con Jorge Serratos y quiere publicarlo con WAS, una editorial mexicana. Idea: que se pueda comprar fácilmente y mover en la Boutique online.
 - **Protector solar:** sus pacientes sí lo usan; la gente en general no. Es un tema clave para el libro y el contenido.
 
 ## Lo que no funcionó y lo que sigue
