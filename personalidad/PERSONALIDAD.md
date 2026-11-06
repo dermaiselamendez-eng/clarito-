@@ -8,6 +8,6 @@
 # Voz de la marca
 
 - **Tres palabras:** experiencia, confianza, resultados.
-- **Tono con clientes:** POR DEFINIR
+- **Tono con pacientes:** cercano y profesional.
 - **Ejemplo de mensaje real:** POR DEFINIR
 - **Lo que la marca nunca dice:** POR DEFINIR

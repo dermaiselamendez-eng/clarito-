@@ -1,4 +1,4 @@
-Siguiente pregunta: 25
+Siguiente pregunta: 26
 
 # Entrevista
 
@@ -90,3 +90,6 @@ Experiencia, confianza, resultados.
 
 **24. ¿Ya tienes colores, tipografía o logo?**
 (Mandó su logo; guardado en marca/logo-isela-mendez.jpg.)
+
+**25. ¿Cómo les hablas a tus clientes?**
+Cercano y profesional.
