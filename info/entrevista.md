@@ -1,4 +1,4 @@
-Siguiente pregunta: 24
+Siguiente pregunta: 25
 
 # Entrevista
 
@@ -87,3 +87,6 @@ Luis
 
 **23. Tres palabras que describan tu marca.**
 Experiencia, confianza, resultados.
+
+**24. ¿Ya tienes colores, tipografía o logo?**
+(Mandó su logo; guardado en marca/logo-isela-mendez.jpg.)
