@@ -69,3 +69,6 @@ Todo lo que llega por redes se pasa a WhatsApp y ahí se agenda. Si hay prepago 
 
 **19. ¿Qué herramientas usas a diario?**
 No sé bien, pero creo que WhatsApp Business.
+
+**19b. Dato extra**
+Me dijeron que recibieron 9,000 mensajes en octubre.

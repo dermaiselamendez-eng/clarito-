@@ -12,4 +12,5 @@
 
 ## Herramientas diarias
 - Isela cree que usan **WhatsApp Business** (por confirmar con el equipo).
+- **Volumen:** en octubre de 2026 recibieron unos **9,000 mensajes** (dato que le dio su equipo). Como comparación, llegan ~350 pacientes nuevas al mes.
 - Lo demás (plataforma de la tienda online, sistema médico, diseño): POR DEFINIR. Se puede preguntar a mercadotecnia y al contact center.
