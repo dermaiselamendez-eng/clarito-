@@ -9,7 +9,7 @@
 - **Problema que resuelve:** Diagnóstico completo el primer día (composición corporal, examen facial digital, tricoscopía) y un plan que da un rejuvenecimiento notable en unos 3 meses; la paciente termina muy feliz. Detalle en conocimientos/primera-consulta-y-membresias.md.
 - **Por qué lo eligen:** 15 años en el mercado; la recomienda Marta de Baile (59 años, líder de opinión en México, segmento socioeconómico alto); muchas pacientes subsecuentes, algunas desde que Isela era residente, que la recomiendan entre ellas; y presencia en Instagram y Google (orgánico y pagado).
 - **Competencia:** Piel Clínic, Dermalomas, Dermarte, Skingroup.
-- **Productos / servicios y precios:** POR DEFINIR
+- **Productos / servicios y precios:** Membresía Oro $45,000 (12 láser); inyectables aparte; injerto capilar $60,000–$80,000; paquete de cicatrices de acné $24,150; área Body Perfect (más de 15 tratamientos corporales). Detalle en conocimientos/servicios-y-precios.md.
 - **Equipo:** POR DEFINIR
 
 ## Objetivos

@@ -1,4 +1,4 @@
-Siguiente pregunta: 9
+Siguiente pregunta: 10
 
 # Entrevista
 
@@ -30,3 +30,6 @@ Me eligen a mí porque tengo 15 años en el mercado y algo que me ayuda mucho es
 
 **8. ¿Quién es tu competencia principal?**
 piel clínic, dermalomas, dermarte, skingroup
+
+**9. ¿Cuáles son tus productos o servicios principales y sus precios aproximados?**
+injerto capilar 60,000 a 80,000. principalmente hombres, cicatrices de acné, pacientes de 20 a 30 años, paquete. que incluye láser co2 fraccionado, erbios y nanopore 24,150 además de un área que se llama body perfect donde hay más de 15 tratamientos corporales, para la grasa, celulitis, estrías, telangiectasias, aumento del músculo, depilación etc la membresía oro 12 tratamientos cuesta 45,000.
