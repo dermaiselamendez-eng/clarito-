@@ -10,4 +10,4 @@
 - **Tres palabras:** experiencia, confianza, resultados.
 - **Tono con pacientes:** cercano y profesional.
 - **Ejemplo de mensaje real:** POR DEFINIR
-- **Lo que la marca nunca dice:** POR DEFINIR
+- **Lo que la marca nunca dice:** prometer resultados milagrosos; hablar mal de otro médico.

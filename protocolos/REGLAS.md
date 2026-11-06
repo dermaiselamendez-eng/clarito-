@@ -12,3 +12,11 @@
 
 ## Revisión
 - Todo texto para clientes: con la voz de la marca (`personalidad/`), sin relleno, sin sonar «a IA».
+
+## Paciente no satisfecha (política de la clínica)
+1. Revisar su foto de antes y después.
+2. Si tiene razón, y siguió sus indicaciones, ofrecerle otro tratamiento sin costo para que vea su inversión.
+
+## Contenido
+- Nunca prometer resultados milagrosos.
+- Nunca hablar mal de otro médico ni de otra clínica.

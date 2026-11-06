@@ -1,4 +1,4 @@
-Siguiente pregunta: 26
+Siguiente pregunta: 27
 
 # Entrevista
 
@@ -93,3 +93,6 @@ Experiencia, confianza, resultados.
 
 **25. ¿Cómo les hablas a tus clientes?**
 Cercano y profesional.
+
+**26. ¿Qué cosas nunca debería decir o hacer tu marca?**
+Prometer resultados milagrosos ni hablar mal de otro médico. Si el paciente no está satisfecho, revisar su foto de antes y después y, si tiene razón, ofrecer otro tratamiento sin costo, que vea su inversión, si siguió sus indicaciones.
