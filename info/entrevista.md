@@ -1,4 +1,4 @@
-Siguiente pregunta: 14
+Siguiente pregunta: 15
 
 # Entrevista
 
@@ -48,3 +48,6 @@ Pues mi objetivo sería abrir otra clínica, por ejemplo, puede ser por Santa Fe
 **13. ¿Qué es lo que más tiempo te quita hoy?**
 (Dictado; se respetan sus palabras, entre corchetes lo que parece error del dictado.)
 Mi inversión principal del tiempo lo estoy dedicando a ver pacientes, pero pues ya comprendo que eso no es escalable, que tengo que quitar ese tiempo para hacer mi marca personal, porque tengo un e-commerce que se llama Boutique y sé la mente [¿Boutique Isela Méndez?], la farmacia online, y eso sí es escalable, nos está funcionando, ya nos factura aproximadamente 1 millón al mes. A veces un poco más, entonces quiero crecer la boutique Isla Méndez [Isela Méndez], que da servicio a toda la República y tenemos muy buen servicio. Ayudar a informar mejor a los pacientes sobre el skincare, porque veo que muchos mi protector solar utilizan [¿no utilizan protector solar?]. Quiero sacar mi libro en Sinergéticos [¿nombre por confirmar?], en el curso que me metí, el Mastermind. Quiero sacar un libro sobre el skincare muy sencillo y práctico. Y que las pacientes lo podrían comprar en cualquier farmacia, porque el objetivo sería que se fuera en la farmacia online.
+
+**14. Si tu asistente pudiera hacer una sola cosa por ti desde mañana, ¿cuál sería?**
+Ayudarme a hacer contenido para la farmacia Boutique Isela Méndez. Nosotros contamos con líneas exclusivas de venta por dermatólogos como Esfilorga, Skincéutical, Sensilis, ZO. Son productos que no se venden al público, por ejemplo, en Sephora o en otras farmacias. Tratamos de tener la distribución exclusiva. También otra marca es SBR, entonces promocionar todos nuestros productos de grado dermatológico.

@@ -29,6 +29,6 @@
 
 ## Otros negocios y proyectos
 
-- **Boutique Isela Méndez (e-commerce / farmacia online):** envíos a toda la República, muy buen servicio, factura aproximadamente $1 millón al mes (a veces más). Es escalable y la quiere crecer. (Nombre exacto por confirmar.)
+- **Boutique Isela Méndez (farmacia online, nombre confirmado):** envíos a toda la República, muy buen servicio, factura aproximadamente $1 millón al mes (a veces más). Es escalable y la quiere crecer.
 - **Marca personal:** quiere quitar tiempo de consulta para dedicarlo a su marca personal.
 - **Libro de skincare:** sencillo y práctico, para informar mejor a las pacientes sobre el cuidado de la piel. Lo está trabajando en un Mastermind («Sinergéticos», nombre por confirmar). Idea: que se pueda comprar fácilmente y mover en la farmacia online.
