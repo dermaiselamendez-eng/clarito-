@@ -1,0 +1,9 @@
+# Datos de clientes: nunca se suben
+clientes/*
+!clientes/README.md
+capturas/*
+!capturas/.gitkeep
+video/**/*.mp4
+video/**/*.mov
+.env
+.DS_Store
