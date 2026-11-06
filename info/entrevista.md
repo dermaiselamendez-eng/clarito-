@@ -1,4 +1,4 @@
-Siguiente pregunta: 7
+Siguiente pregunta: 8
 
 # Entrevista
 
@@ -24,3 +24,6 @@ Mi paciente, cuando llega, la peso para ver cómo está de músculo, de grasa, y
 
 **6b. Aclaración: ¿los inyectables van incluidos en la membresía?**
 No, los inyectables tienen un precio aparte. Por ejemplo, más o menos unas 60 unidades de Botox son 8,500, o cada bioestimulador cuesta 12,000, si aplicamos dos son 24,000, y ponle unos 3 fillers, cada filler cuesta 8, 8 por 3, 24, pensando iniciando solo por la cara un rejuvenecimiento.
+
+**7. ¿Por qué te eligen a ti y no a otro?**
+Me eligen a mí porque tengo 15 años en el mercado y algo que me ayuda mucho es que me recomienda Marta de Baile, la cual es una mujer de 59 años, que es líder de opinión en México, de un segmento socioeconómico alto, y porque son muchos pacientes subsecuentes que ya tienen conmigo, incluso desde que soy residente, antes de abrir mi clínica ya eran mis pacientes. Entonces es pacientes subsecuentes que me recomiendan entre ellas y también por las redes sociales, principalmente en Instagram y en Google, ya sea orgánico o por pago.
