@@ -1,7 +1,7 @@
 # Mi negocio
 
-- **Nombre:** POR DEFINIR
-- **Dueño(a):** POR DEFINIR
+- **Nombre:** Clínica Dermatológica Isela Méndez
+- **Dueño(a):** Isela Méndez
 - **Qué vende:** POR DEFINIR
 - **Desde cuándo y cómo empezó:** POR DEFINIR
 - **Dónde está y dónde están sus clientes:** POR DEFINIR
