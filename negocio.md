@@ -5,7 +5,7 @@
 - **Qué vende:** Tratamientos dermatológicos, láser e injerto capilar.
 - **Desde cuándo y cómo empezó:** Desde el 1 de julio de 2010. Cómo empezó: POR DEFINIR
 - **Dónde está y dónde están sus clientes:** Plinio 118, Polanco, Ciudad de México. Pacientes principalmente de Polanco y Lomas de Chapultepec; también pacientes que viven en Estados Unidos, visitan a su familia en México y aprovechan para hacerse tratamientos.
-- **Cliente ideal:** POR DEFINIR
+- **Cliente ideal:** Mujer perimenopáusica de 45 a 60 años (alrededor de 50). Llega por flacidez, manchas, telangiectasias, arrugas, caída de cabello y resequedad; le interesa el reemplazo hormonal con hormonas idénticas y verse más joven.
 - **Problema que resuelve:** POR DEFINIR
 - **Por qué lo eligen:** POR DEFINIR
 - **Competencia:** POR DEFINIR
