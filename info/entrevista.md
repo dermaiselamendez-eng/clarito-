@@ -109,8 +109,8 @@ Corto y en lista, con números y fácil.
 **30. ¿Algo más que tu asistente deba saber de ti?**
 Quiero que me ayudes a ser más eficiente con mi tiempo, aumentar el número de pacientes que recibimos. Que sí hay interés en las redes sociales, pero pienso que se encuentran con falta de interés y seguimiento desde mercadotecnia, que contesta los mensajes, y contact center para cerrar con una consulta. La venta la realiza el médico con base en una consulta.
 
-## Pendientes por confirmar
-- ¿Quién cerró la tienda de venta directa? (el dictado dijo «la compras»; ¿Cofepris?)
-- ¿Cómo se escribe el Mastermind del libro? (el dictado dijo «Sinergéticos»)
-- ¿Muchas pacientes no usan protector solar? (pregunta 13)
-- Escritura oficial de Filorga y SkinCeuticals.
+## Aclaraciones de Isela (después de la entrevista)
+- Quien cerró la tienda de venta directa fue la COEPRIS (no Cofepris).
+- El libro: Mastermind con Jorge Serratos; publicar el libro en «was» (por confirmar qué plataforma).
+- Protector solar: «mis pacientes sí, pero cuando pregunto a la gente normal», no.
+- Marcas: Filorga, SkinCeuticals, ZO Obagi, Sensilis.

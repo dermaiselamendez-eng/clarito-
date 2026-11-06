@@ -3,10 +3,10 @@
 **Qué la hace distinta:** líneas exclusivas de venta por dermatólogos. No se venden al público en lugares como Sephora u otras farmacias. Buscan tener la distribución exclusiva.
 
 **Marcas (como las dictó Isela; escritura oficial por confirmar):**
-- «Esfilorga» (¿Filorga?)
-- «Skincéutical» (¿SkinCeuticals?)
+- Filorga
+- SkinCeuticals
+- ZO Obagi (ZO Skin Health)
 - Sensilis
-- ZO (¿ZO Skin Health?)
 - SVR
 - Lazartigue
 - Medik8

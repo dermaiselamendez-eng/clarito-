@@ -31,11 +31,12 @@
 
 - **Boutique Isela Méndez (farmacia online, nombre confirmado):** envíos a toda la República, muy buen servicio, factura aproximadamente $1 millón al mes (a veces más). Es escalable y la quiere crecer.
 - **Marca personal:** quiere quitar tiempo de consulta para dedicarlo a su marca personal.
-- **Libro de skincare:** sencillo y práctico, para informar mejor a las pacientes sobre el cuidado de la piel. Lo está trabajando en un Mastermind («Sinergéticos», nombre por confirmar). Idea: que se pueda comprar fácilmente y mover en la farmacia online.
+- **Libro de skincare:** sencillo y práctico, para informar mejor a las pacientes sobre el cuidado de la piel. Lo está trabajando en el Mastermind con Jorge Serratos y quiere publicarlo en «was» (así lo dictó; por confirmar qué plataforma). Idea: que se pueda comprar fácilmente y mover en la Boutique online.
+- **Protector solar:** sus pacientes sí lo usan; la gente en general no. Es un tema clave para el libro y el contenido.
 
 ## Lo que no funcionó y lo que sigue
 
 - **Tener todo junto no funcionó.** Había tres puntos de venta: la farmacia online, la farmacia de la clínica y una farmacia-boutique de venta directa al público.
-- **Cierre:** la autoridad (¿Cofepris?, por confirmar) cerró la farmacia de venta directa por tener cabinas de faciales.
+- **Cierre:** la COEPRIS cerró la farmacia de venta directa por tener cabinas de faciales.
 - **Plan:** reabrirla quitando la palabra «farmacia» y dejando solo «Boutique».
 - **Problema pendiente:** son 3 inventarios. Deben estar unificados y a la vista del médico para que no se caduque producto.
