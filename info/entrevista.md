@@ -1,4 +1,4 @@
-Siguiente pregunta: 13
+Siguiente pregunta: 14
 
 # Entrevista
 
@@ -44,3 +44,7 @@ Lo que quiero lograr es tener todo el área de body perfect ocupada, o sea, los 
 
 **12. ¿Y en un año?**
 Pues mi objetivo sería abrir otra clínica, por ejemplo, puede ser por Santa Fe, La Condesa, que cuando ya esté la clínica trabajando, a seguir abriendo otras sucursales con los aparatos que más se mueven, como es radiofrecuencia, depilación, luz pulsada, Haiku, los inyectables con el médico, los procedimientos más rentables, como también es el nanopore y retiro de tatuajes.
+
+**13. ¿Qué es lo que más tiempo te quita hoy?**
+(Dictado; se respetan sus palabras, entre corchetes lo que parece error del dictado.)
+Mi inversión principal del tiempo lo estoy dedicando a ver pacientes, pero pues ya comprendo que eso no es escalable, que tengo que quitar ese tiempo para hacer mi marca personal, porque tengo un e-commerce que se llama Boutique y sé la mente [¿Boutique Isela Méndez?], la farmacia online, y eso sí es escalable, nos está funcionando, ya nos factura aproximadamente 1 millón al mes. A veces un poco más, entonces quiero crecer la boutique Isla Méndez [Isela Méndez], que da servicio a toda la República y tenemos muy buen servicio. Ayudar a informar mejor a los pacientes sobre el skincare, porque veo que muchos mi protector solar utilizan [¿no utilizan protector solar?]. Quiero sacar mi libro en Sinergéticos [¿nombre por confirmar?], en el curso que me metí, el Mastermind. Quiero sacar un libro sobre el skincare muy sencillo y práctico. Y que las pacientes lo podrían comprar en cualquier farmacia, porque el objetivo sería que se fuera en la farmacia online.
