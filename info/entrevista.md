@@ -1,4 +1,4 @@
-Siguiente pregunta: 28
+Siguiente pregunta: 29
 
 # Entrevista
 
@@ -99,3 +99,6 @@ Prometer resultados milagrosos ni hablar mal de otro médico. Si el paciente no 
 
 **27. ¿Qué valores no negocias?**
 Ética, seguridad del paciente, honradez, dar seguimiento a los pacientes; les pido a mis médicos.
+
+**28. ¿Qué te gusta hacer fuera del negocio?**
+Pasar tiempo con mi familia en Valle de Bravo haciendo deporte, viajar con mi familia y ser una referencia como dermatóloga. Doy pláticas en congresos algunas veces, para no descuidar a mi familia.
