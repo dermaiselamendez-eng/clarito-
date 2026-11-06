@@ -7,7 +7,10 @@
 - «Skincéutical» (¿SkinCeuticals?)
 - Sensilis
 - ZO (¿ZO Skin Health?)
-- «SBR» (por confirmar)
+- SVR
+- Lazartigue
+- Medik8
+- **Marca propia Isela Méndez**
 
 **Objetivo del contenido:** promocionar todos sus productos de grado dermatológico.
 

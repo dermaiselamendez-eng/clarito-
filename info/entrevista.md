@@ -1,4 +1,4 @@
-Siguiente pregunta: 15
+Siguiente pregunta: 16
 
 # Entrevista
 
@@ -51,3 +51,9 @@ Mi inversión principal del tiempo lo estoy dedicando a ver pacientes, pero pues
 
 **14. Si tu asistente pudiera hacer una sola cosa por ti desde mañana, ¿cuál sería?**
 Ayudarme a hacer contenido para la farmacia Boutique Isela Méndez. Nosotros contamos con líneas exclusivas de venta por dermatólogos como Esfilorga, Skincéutical, Sensilis, ZO. Son productos que no se venden al público, por ejemplo, en Sephora o en otras farmacias. Tratamos de tener la distribución exclusiva. También otra marca es SBR, entonces promocionar todos nuestros productos de grado dermatológico.
+
+**14b. Marcas (aclaración)**
+SVR, Lazartigue, Medik8, marca propia Isela Méndez.
+
+**15. ¿Cómo consigues clientes hoy?**
+Google Ads 140 pacientes nuevos al mes para consulta, Google orgánico 34 al mes y de IG no lo sé. Pero en total son 350 en promedio de pacientes nuevos al mes entre recomendación y todo.

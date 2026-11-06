@@ -5,4 +5,13 @@
 3. **Instagram:** orgánico y pagado.
 4. **Google:** orgánico y pagado.
 
-Cuál funciona mejor y cuánto se invierte: POR DEFINIR (preguntas 15 y 16).
+## Pacientes nuevos al mes (para consulta)
+| Canal | Pacientes nuevos / mes |
+|---|---|
+| Google Ads | 140 |
+| Google orgánico | 34 |
+| Instagram | No se sabe (no se mide hoy) |
+| Recomendación, Instagram y lo demás | ~176 (calculado: 350 − 140 − 34) |
+| **Total promedio** | **~350** |
+
+Pendiente: medir cuántas pacientes llegan por Instagram y por recomendación. Inversión en anuncios: POR DEFINIR.
