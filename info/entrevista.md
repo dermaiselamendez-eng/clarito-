@@ -1,4 +1,4 @@
-Siguiente pregunta: 16
+Siguiente pregunta: 17
 
 # Entrevista
 
@@ -57,3 +57,6 @@ SVR, Lazartigue, Medik8, marca propia Isela Méndez.
 
 **15. ¿Cómo consigues clientes hoy?**
 Google Ads 140 pacientes nuevos al mes para consulta, Google orgánico 34 al mes y de IG no lo sé. Pero en total son 350 en promedio de pacientes nuevos al mes entre recomendación y todo.
+
+**16. ¿En qué redes estás y cuál te funciona mejor?**
+Está en todas. YouTube casi no la alimentó, pero ahora me doy cuenta de su importancia y por eso voy a ver menos pacientes para hacer más contenido informativo sobre tratamientos faciales, corporal, pelo y skincare.

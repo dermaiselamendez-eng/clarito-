@@ -15,3 +15,9 @@
 | **Total promedio** | **~350** |
 
 Pendiente: medir cuántas pacientes llegan por Instagram y por recomendación. Inversión en anuncios: POR DEFINIR.
+
+## Redes sociales
+- La clínica está en todas las redes.
+- **YouTube:** casi no se ha alimentado. Isela ya ve su importancia: va a ver menos pacientes para hacer más contenido informativo.
+- **Temas del contenido:** tratamientos faciales, corporales, cabello y skincare.
+- Cuál funciona mejor: no lo dijo; Instagram aún no se mide.
