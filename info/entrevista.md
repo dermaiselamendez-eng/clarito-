@@ -1,4 +1,4 @@
-Siguiente pregunta: 18
+Siguiente pregunta: 19
 
 # Entrevista
 
@@ -63,3 +63,6 @@ Está en todas. YouTube casi no la alimentó, pero ahora me doy cuenta de su imp
 
 **17. ¿Tienes página web? ¿Qué quisieras que hiciera por ti?**
 www.iselamendez.mx. Agendar citas.
+
+**18. ¿Cómo llevas hoy la lista de tus clientes?**
+Todo lo que llega por redes se pasa a WhatsApp y ahí se agenda. Si hay prepago se hace un pequeño descuento.
