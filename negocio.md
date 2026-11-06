@@ -19,7 +19,9 @@
   - Abrir la primera sucursal en Lomas de Chapultepec, alrededor del 15 de diciembre de 2026 (a 1.5 km, pero mucha gente no cruza el Periférico).
   - Que la clínica dependa cada vez menos de Isela: hoy ella genera el 30% de la facturación. Quiere que su parte sea menor sin bajar lo que ella factura, y que el total suba.
   - Cómo: reclutó más médicos y los está capacitando en inyectables.
-- **1 año:** POR DEFINIR
+- **1 año:**
+  - Abrir otra clínica, por ejemplo en Santa Fe o La Condesa.
+  - Con la clínica ya trabajando, seguir abriendo sucursales con los aparatos que más se mueven: radiofrecuencia, depilación, luz pulsada, Haiku, inyectables con médico, Nanopore y retiro de tatuajes (los procedimientos más rentables).
 
 ## Lo que más deja
 

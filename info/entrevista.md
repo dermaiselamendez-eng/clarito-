@@ -1,4 +1,4 @@
-Siguiente pregunta: 12
+Siguiente pregunta: 13
 
 # Entrevista
 
@@ -41,3 +41,6 @@ Conmigo trabajan 6 médicos estéticos, 8 dermatólogos, 15 enfermeras, y lo dem
 
 **11. ¿Qué quieres lograr en los próximos 90 días?**
 Lo que quiero lograr es tener todo el área de body perfect ocupada, o sea, los láser trabajando que no dependen directamente de mí. Y vamos a abrir una sucursal aproximadamente el 15 de diciembre en Lomas de Chapultepec. Queda cerca, queda a 1.5 kilómetros, pero en la Ciudad de México con el tráfico mucha gente no cruza el periférico. Entonces ahí pusimos la primera sucursal que vamos a abrir. Y el objetivo pues, es tener las maquinitas trabajando y que cada vez dependan menos de mí la clínica. Actualmente de la facturación yo correspondo al 30% de la facturación y pues quiero, sin bajar mi facturación, ser yo cada vez una menor parte y pues el objetivo sería subirla, y para esto he reclutado más médicos y me estoy dedicando a capacitar en las habilidades en los inyectables.
+
+**12. ¿Y en un año?**
+Pues mi objetivo sería abrir otra clínica, por ejemplo, puede ser por Santa Fe, La Condesa, que cuando ya esté la clínica trabajando, a seguir abriendo otras sucursales con los aparatos que más se mueven, como es radiofrecuencia, depilación, luz pulsada, Haiku, los inyectables con el médico, los procedimientos más rentables, como también es el nanopore y retiro de tatuajes.
