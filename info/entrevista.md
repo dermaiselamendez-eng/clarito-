@@ -1,4 +1,4 @@
-Siguiente pregunta: 19
+Siguiente pregunta: 20
 
 # Entrevista
 
@@ -66,3 +66,6 @@ www.iselamendez.mx. Agendar citas.
 
 **18. ¿Cómo llevas hoy la lista de tus clientes?**
 Todo lo que llega por redes se pasa a WhatsApp y ahí se agenda. Si hay prepago se hace un pequeño descuento.
+
+**19. ¿Qué herramientas usas a diario?**
+No sé bien, pero creo que WhatsApp Business.

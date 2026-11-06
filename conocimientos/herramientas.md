@@ -11,4 +11,5 @@
 - WhatsApp solo por la vía oficial (ver `protocolos/WHATSAPP.md`).
 
 ## Herramientas diarias
-POR DEFINIR (pregunta 19)
+- Isela cree que usan **WhatsApp Business** (por confirmar con el equipo).
+- Lo demás (plataforma de la tienda online, sistema médico, diseño): POR DEFINIR. Se puede preguntar a mercadotecnia y al contact center.
