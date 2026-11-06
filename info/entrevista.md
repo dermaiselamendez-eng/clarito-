@@ -1,4 +1,4 @@
-Siguiente pregunta: 22
+Siguiente pregunta: 23
 
 # Entrevista
 
@@ -81,3 +81,6 @@ Tener todo junto, la fascia [farmacia] online, la farmacia de la clínica y una 
 
 **21. ¿Cómo quieres que te hable tu asistente?**
 De tú y directo con humor.
+
+**22. ¿Qué nombre le pondrías a tu asistente?**
+Luis
