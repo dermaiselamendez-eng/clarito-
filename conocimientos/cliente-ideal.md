@@ -15,4 +15,4 @@
 
 **Dónde vive:** principalmente Polanco y Lomas de Chapultepec. También hay pacientes que viven en Estados Unidos y aprovechan su visita a México.
 
-**Problema que le resuelves:** POR DEFINIR (pregunta 6)
+**Problema que le resuelves:** un diagnóstico completo y un plan; a los 3 meses tiene un rejuvenecimiento notable y está muy feliz.
