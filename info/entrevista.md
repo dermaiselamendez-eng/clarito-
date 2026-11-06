@@ -1,4 +1,4 @@
-Siguiente pregunta: 29
+Siguiente pregunta: 30
 
 # Entrevista
 
@@ -102,3 +102,6 @@ Prometer resultados milagrosos ni hablar mal de otro médico. Si el paciente no 
 
 **28. ¿Qué te gusta hacer fuera del negocio?**
 Pasar tiempo con mi familia en Valle de Bravo haciendo deporte, viajar con mi familia y ser una referencia como dermatóloga. Doy pláticas en congresos algunas veces, para no descuidar a mi familia.
+
+**29. ¿Cómo prefieres recibir información?**
+Corto y en lista, con números y fácil.
